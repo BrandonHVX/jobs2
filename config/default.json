@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://brandongines:Northland1!@clustersocial-4q97z.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
